@@ -1,0 +1,32 @@
+_repo: Curiosit-s-Infernales_10685
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jacob, P. L.
+    aliases:
+    - Dufour, Pierre
+    - Lacroix, Paul
+    - Jacob, Paul L.
+    birthdate: 1806
+    deathdate: 1884
+    gutenberg_agent_id: '4290'
+    url: http://www.gutenberg.org/2009/agents/4290
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Lacroix
+description: ''
+gutenberg_bookshelf: FR Occultisme
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10685'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Folklore'
+- !lcsh 'Witchcraft'
+- !lcsh 'Demonology'
+- GITenberg
+title: Curiosités Infernales
+url: http://www.gutenberg.org/ebooks/10685
